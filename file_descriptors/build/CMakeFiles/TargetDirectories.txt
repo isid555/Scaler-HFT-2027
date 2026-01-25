@@ -1,3 +1,0 @@
-/home/kartik/CLionProjects/Scaler-HFT-2027/file_descriptors/build/CMakeFiles/file_descriptors.dir
-/home/kartik/CLionProjects/Scaler-HFT-2027/file_descriptors/build/CMakeFiles/edit_cache.dir
-/home/kartik/CLionProjects/Scaler-HFT-2027/file_descriptors/build/CMakeFiles/rebuild_cache.dir

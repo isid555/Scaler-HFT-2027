@@ -1,3 +1,0 @@
-/home/kartik/logger/build/CMakeFiles/logger.dir
-/home/kartik/logger/build/CMakeFiles/edit_cache.dir
-/home/kartik/logger/build/CMakeFiles/rebuild_cache.dir

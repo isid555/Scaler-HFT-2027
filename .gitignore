@@ -1,12 +1,15 @@
+# IDE junk
 .idea/
 .vscode/
 
+# Build / experiments
 boost_TCP/
 file_descriptors/
 lockFreeWaitFree/
 SPSC_QUEUES/
 SHM_MMAP/
 
+# Levels
 L1/
 L2/
 L3/
@@ -17,4 +20,5 @@ L8/
 L9/
 L10/
 
+# Learning / scratch
 CMake_Learning/
